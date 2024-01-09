@@ -8,8 +8,8 @@
  
 char auth[] = BLYNK_AUTH_TOKEN;
 
-char ssid[] = "vivo 1811";  // type your wifi name
-char pass[] = "sandhya naik";  // type your wifi password
+char ssid[] = "";  // type your wifi name
+char pass[] = "";  // type your wifi password
 
 int sensor1 = D2;
 int sensor2 = D1;
